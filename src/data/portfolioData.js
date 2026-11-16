@@ -1,6 +1,6 @@
 export const PROFILE = {
   shortName: "Confidence Joshua",
-  fullName: "Confidence Oriabure Joshua",
+  fullName: "Confidence Joshua Oriabure",
   tagline: "Computer Science Graduate • UI/UX Designer & Web Developer",
   profileImage: "/images/profile.jpg",
   cvUrl: "https://drive.google.com/file/d/1EmIWlNKBpHETxGFRdWKsS4he3v2H2hg4/view?usp=sharing",
@@ -17,7 +17,7 @@ export const PROFILE = {
     {
       id: "linkedin",
       label: "LinkedIn",
-      handle: "Confidence Oriabure Joshua",
+      handle: "Confidence Joshua Oriabure",
       href: "https://www.linkedin.com/in/oriabure-confidence-1167b8203/",
       accent: "hover:border-blue-500/60 hover:text-blue-600 dark:hover:text-blue-400",
     },
